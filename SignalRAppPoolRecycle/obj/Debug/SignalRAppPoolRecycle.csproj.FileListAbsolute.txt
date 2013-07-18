@@ -1,0 +1,9 @@
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\SignalRAppPoolRecycle\SignalRAppPoolRecycle\bin\Debug\SignalRAppPoolRecycle.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\SignalRAppPoolRecycle\SignalRAppPoolRecycle\bin\Debug\SignalRAppPoolRecycle.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\SignalRAppPoolRecycle\SignalRAppPoolRecycle\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\SignalRAppPoolRecycle\SignalRAppPoolRecycle\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\SignalRAppPoolRecycle\SignalRAppPoolRecycle\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\SignalRAppPoolRecycle\SignalRAppPoolRecycle\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\SignalRAppPoolRecycle\SignalRAppPoolRecycle\obj\Debug\SignalRAppPoolRecycle.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\SignalRAppPoolRecycle\SignalRAppPoolRecycle\obj\Debug\SignalRAppPoolRecycle.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\SignalRAppPoolRecycle\SignalRAppPoolRecycle\obj\Debug\SignalRAppPoolRecycle.pdb
